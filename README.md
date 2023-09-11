@@ -1,22 +1,17 @@
-![](https://img.shields.io/badge/Uneweb-blue)
+# Logical Operators
 
-# Project Name
+> Logical Operators made with HTML and JavaScript
 
-> One paragraph statement about the project.
-
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
+![screenshot](/Screenshot_2023-09-11_08-21-08.png)
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- JavaScript
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://juanmontill.github.io./logical_operators_javascript_info_check_the_login_08sep23/)
 
 
 ## Getting Started
@@ -48,17 +43,11 @@ To get a local copy up and running follow these simple example steps.
 - GitHub: [@JUANMONTILL](https://github.com/JUANMONTILL)
 - Instagram: [@juanfranc_31](https://instagram.com/juanfranc_31)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/JUANMONTILL/logical_operators_javascript_info_check_the_login_08sep23/issues).
 
 ## Show your support
 
@@ -66,9 +55,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- My Family
+- My Teachers
+- JavaScript
 
 ## 📝 License
 
