@@ -7,22 +7,22 @@
 </head>
 <body>
   <script>
-    let ventana = prompt('Quien es?');
+    let ventana = prompt("Who's there?");
 
     if (ventana === 'Admin') {
-      let ventana2 = prompt('Constraseña');
+      let ventana2 = prompt('Password');
       if (ventana2 === 'TheMaster') {
-      alert('Bienvenido');
+      alert('Welcome');
       } else if (ventana2 === null) {
-      alert('Cancelado')
+      alert('Canceled')
       } else {
-      alert ('Incorrecto')
+      alert ('Wrong password')
       }
 
     } else if (ventana === null) {
-    alert('Cancelado');
+    alert('Canceled');
     } else {
-    alert('NO TE CONOZCO');
+    alert("I don't know you");
     }
   </script>
 </body>
