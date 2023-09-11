@@ -2,7 +2,7 @@
 
 > Logical Operators made with HTML and JavaScript
 
-![screenshot](/Screenshot_2023-09-11_08-21-08.png)
+![screenshot](/Screenshot_2023-09-11_08-44-17.png)
 
 ## Built With
 
